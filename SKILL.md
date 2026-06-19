@@ -86,8 +86,9 @@ Output: Comparative analysis across three markets with scores, phased strategy, 
 **User input:** "Build a 90-day market entry execution plan for launching in South Korea."
 
 **Expected output:** Week-by-week plan covering entity setup, Coupang onboarding, Korean-language CS, local warehouse/3PL, influencer seeding, and KakaoTalk marketing activation.
-
-
+### Scenario 4: 潮汕牛肉丸想进新加坡市场
+**User input:** "我在汕头做牛肉丸的小厂，想把产品卖到新加坡去，华人多应该好做，第一步怎么走？"
+**Expected output:** 新加坡市场进入策略：1）合规先行——新加坡食品局（SFA）要求肉类制品需有Halal认证（即使顾客是华人，超市渠道也要求Halal）；2）产品形态——推荐真空冷藏包装（冰袋+泡沫箱），保质期从现做的3-5天延长至冷冻30天；3）渠道——先通过Shopee Singapore/Lazada的跨境卖家入驻试水，再谈线下超市（NTUC FairPrice/Cold Storage需要代理）；4）定价——双倍国内售价（运输+关税+渠道成本）。建议先参加新加坡食品展FHA招代理。
 
 ## Acceptance Criteria
 
